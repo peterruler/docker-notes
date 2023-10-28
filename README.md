@@ -43,7 +43,7 @@ sudo apt install docker-compose # is different to macos
 - `docker image ls`
 
 # delete images
-- `docker rmi b038788ddb22` short for docker image rm <imghash> - remove image from system
+- `docker rmi b038788ddb22` short for `docker image rm <imghash>` - remove image from system
 
 # run a specfic nginx version
 - `docker run nginx:1.24.0`
