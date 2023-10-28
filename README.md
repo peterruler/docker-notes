@@ -1,6 +1,6 @@
 # docker-notes
 
-# Youtube resource
+# Youtube ressource
 - Based on a youtube tutorial by Chistian Lempa
 - https://www.youtube.com/watch?v=Nm1tfmZDqo8
 
