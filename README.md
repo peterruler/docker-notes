@@ -64,6 +64,7 @@ sudo apt install docker-compose # is different to macos
 # start a production instance of nginx in background
 - The complete start docker command to start a webserver
 - `docker run --name nginx-prod-1 -p 80:80 -p 443:443 -v /Users/peterstroessler/Sites:/usr/share/nginx/html -d nginx:1.25.2`
+- replace `/Users/peterstroessler/Sites` with the path on your machine containing the html files
 
 # have an index.html in your mapped directory 
 - have a index html in the local directory on my machine `/Users/peterstroessler/Sites` have a sample index.html in there
