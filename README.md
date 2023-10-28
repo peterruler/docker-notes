@@ -8,9 +8,10 @@
 - https://docker.com/get-started
 
 # install docker on specific linux
-- https://docs.docker.com/engine/install/ubuntu/
+- https://docs.docker.com/engine/install
 
 # install docker on ubuntu
+- https://docs.docker.com/engine/install/ubuntu/
 
 ```
 sudo apt-get remove docker docker-engine docker.io
@@ -67,7 +68,7 @@ sudo apt install docker-compose # is different to macos
 - replace `/Users/peterstroessler/Sites` with the path on your machine containing the html files
 
 # have an index.html in your mapped directory 
-- have a index html in the local directory on my machine `/Users/peterstroessler/Sites` have a sample index.html in there
+- have a index html in the local directory on my machine `/Users/peterstroessler/Sites` have a sample index.html file in there
 
 # test the webserver in the terminal
 - `curl localhost` to test in a terminal
