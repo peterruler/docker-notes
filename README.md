@@ -32,9 +32,9 @@ sudo apt install docker-compose # is different to macos
 - (do a stop and rm of this container)
 
 # start / stop / delete container
-- `docker start <continer-name>`
-- `docker stop <continer-name>`
-- `docker rm <continer-name>`
+- `docker start <container-name>`
+- `docker stop <container-name>`
+- `docker rm <container-name>`
 
 # run a image enter shell in the container
 - `docker run --interactive --tty debian`
