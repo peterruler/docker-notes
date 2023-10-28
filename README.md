@@ -31,6 +31,11 @@ sudo apt install docker-compose # is different to macos
 - `docker run hello-world`
 - (do a stop and rm of this container)
 
+# start / stop / delete container
+- `docker start <continer-name>`
+- `docker stop <continer-name>`
+- `docker rm <continer-name>`
+
 # run a image enter shell in the container
 - `docker run --interactive --tty debian`
 - `docker run --interactive --tty centos`
