@@ -61,7 +61,7 @@ sudo apt install docker-compose # is different to macos
 - `-p` for --publish port containerinternal:hostport
 - `-v` for --volume mountpoints or volumes mapping internalcontainer:hostsystem
 
-# start a production instance of nginx in backround
+# start a production instance of nginx in background
 - The complete start docker command to start a webserver
 - `docker run --name nginx-prod-1 -p 80:80 -p 443:443 -v /Users/peterstroessler/Sites:/usr/share/nginx/html -d nginx:1.25.2`
 
